@@ -1,0 +1,59 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Ball_ball_game_scene/Scripts/Ball.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Map.cs" Line="26" Column="9" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Player_controller.cs" Line="30" Column="23" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Ball.cs" Line="42" Column="10" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Player_unit.cs" Line="5" Column="30" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Player.cs" Line="19" Column="9" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Camera_controller.cs" Line="23" Column="5" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Game_manager.cs" Line="29" Column="6" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Ball_manager.cs" Line="39" Column="32" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Unit_controller.cs" Line="109" Column="34" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Goal.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Score_UI.cs" Line="26" Column="29" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Goal_detection.cs" Line="20" Column="37" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Player_color_material.cs" Line="19" Column="5" />
+      <File FileName="Assets/Scenes/Ball_ball_game_scene/Scripts/Menu_UI.cs" Line="14" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ball_ball" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scenes" expanded="True">
+                  <Node name="Ball_ball_game_scene" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="Ball.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Ball_ball" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Ball_ball" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
